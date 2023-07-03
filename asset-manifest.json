@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Docsify_app/static/css/main.0111de60.css",
+    "main.js": "/Docsify_app/static/js/main.1b114657.js",
+    "index.html": "/Docsify_app/index.html",
+    "main.0111de60.css.map": "/Docsify_app/static/css/main.0111de60.css.map",
+    "main.1b114657.js.map": "/Docsify_app/static/js/main.1b114657.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0111de60.css",
+    "static/js/main.1b114657.js"
+  ]
+}
